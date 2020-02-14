@@ -1,2 +1,2 @@
-# CSE539_P-roject-2---Brute-Forcing-and-Cryptanalysis-Project
+# CSE539_Project2_Brute-Forcing-and-Cryptanalysis-Project
 
